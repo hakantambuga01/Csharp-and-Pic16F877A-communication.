@@ -1,0 +1,4 @@
+>>> Warning 216 "ASA_KOD7_16F877A_CH340_C#Haberlesme.c" Line 185(5,6): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+      Memory usage:   ROM=8%      RAM=7% - 7%
+      0 Errors,  1 Warnings.
+Build Successful.
